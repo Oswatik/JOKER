@@ -6,7 +6,7 @@ Wanna comeup with something funny on something?? Here's JOKER, a llama2 powered 
 
 Sometimes its retarded.
 
-*Built using:*
+# Built using:
 
 Python
 Lanchain
